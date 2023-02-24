@@ -139,12 +139,12 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Kren',
-					link: 'https://www.youtube.com/playlist?list=PLgF_gQh7OwJzwtN08b5oQ_-s3uZ6IsLp-',
+					name: 'Try',
+					link: 'https://www.youtube.com/playlist?list=PLt2p866yUSjs5xOyG1kM2SqW2Pb9jESRQ',
 				},
 				{
-					name: 'Underrated',
-					link: 'https://www.youtube.com/playlist?list=PLWTjjEmzNQCvKwhXmedIRmxXU-nUy7XIi',
+					name: 'Watch Later',
+					link: 'https://www.youtube.com/playlist?list=WL',
 				},
 				{
 					name: 'Japanese',
