@@ -66,8 +66,8 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Todoist',
-			icon: 'whatsapp',
-			link: 'web.whatsapp.com/',
+			icon: 'discord',
+			link: 'https://discord.com/app/',
 		},
 		{
 			id: '4',
